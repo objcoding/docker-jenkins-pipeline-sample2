@@ -11,7 +11,7 @@ public class DockerJenkinsSample1Application {
 
     @RequestMapping("/")
     public String sayHello() {
-        return "hello docker 1";
+        return "hello docker 111";
     }
 
     public static void main(String[] args) {
