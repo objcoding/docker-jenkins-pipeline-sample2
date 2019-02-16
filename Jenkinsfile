@@ -11,7 +11,7 @@ library 'objcoding-pipeline-library'
     // 项目gitlab代码地址
     map.put('REPO_URL','https://github.com/objcoding/docker-jenkins-pipeline-sample2.git')
     // 分支名称
-    map.put('BRANCH_NAME','master')
+    map.put('BRANCH_NAME','uat')
     // 服务栈名称
     map.put('STACK_NAME','vipay')
 
