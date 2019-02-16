@@ -15,5 +15,5 @@ library 'objcoding-pipeline-library'
     // 服务栈名称
     map.put('STACK_NAME','vipay')
 
-// 调用library中var目录下的build.groovy脚本
-build(map)
+// 调用library中var目录下的deploy.groovy脚本
+deploy(map)
