@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.objcoding</groupId>
-    <artifactId>docker-jenkins-muti-sample</artifactId>
+    <artifactId>docker-jenkins-pipeline-sample2</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
